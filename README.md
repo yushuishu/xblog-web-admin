@@ -6,27 +6,26 @@
 
 ## 介绍
 
-项目基于 [vue@3.x](https://v3.cn.vuejs.org/guide) 系列开发（文档：[router@4.x](https://next.router.vuejs.org/zh/guide/index.html)、[pinia@4.x](https://pinia.web3doc.top/)），UI 组件库使用 [element-plus](https://element-plus.gitee.io/zh-CN/)，开发环境使用 [vite@2.x](https://cn.vitejs.dev/)。
+项目基于 [vue@3.x](https://v3.cn.vuejs.org/guide) 系列开发（文档：[router@4.x](https://next.router.vuejs.org/zh/guide/index.html)、[pinia@2.x](https://pinia.web3doc.top/)），UI 组件库使用 [element-plus](https://element-plus.gitee.io/zh-CN/)，图表使用 [echarts](https://echarts.apache.org/handbook/zh/get-started/)，开发环境使用 [vite@4.x](https://cn.vitejs.dev/)。
 
 
 ## 预览
 ## 项目结构说明
 
 ```
-├── mock                     # 开发模式下的模拟接口，预览模式下使用的fastmock
+project
 ├── public
 │   ├── static               # 静态引用资源
 │   └── favicon.ico          # Favicon
 ├── src
 │   ├── apis                 # 接口请求封装方法
-│   ├── assets
-│   ├── components           # 业务通用组件
+│   ├── assets               # 静态资源，
+│   ├── components           # 通用组件
 │   ├── config               # 项目中的配置
 │   ├── layouts              # 通用布局
 │   ├── router               # vue路由配置
-│   ├── store                # vuex配置
+│   ├── store                # pinia配置
 │   ├── styles               # 全局样式
-typing # ts 类型申明文件
 │   ├── utils                # 工具库
 │   └── views                # 业务页面
 ├── .env                     # 公共的环境常量
