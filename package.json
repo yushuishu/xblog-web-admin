@@ -1,42 +1,41 @@
 {
-  "name": "shuishu-blog-front-admin",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "author": {
-    "name": "yushuishu",
-    "email": "k1994583917@gmail",
-    "url": "https://github.com/yushuishu"
-  },
-  "keywords": [
-    "vue",
-    "vue3",
-    "vueComponent",
-    "admin",
-    "js",
-    "javascript",
-    "vite",
-    "pinia"
-  ],
-  "homepage": "https://imzbf.github.io/shuishu-blog-front-admin/",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "@element-plus/icons-vue": "^2.1.0",
-    "axios": "^1.3.4",
-    "dayjs": "^1.11.7",
-    "echarts": "^5.4.2",
-    "element-plus": "^2.3.1",
-    "md-editor-v3": "^2.11.0",
-    "pinia": "^2.0.33",
-    "vue": "^3.2.47",
-    "vue-router": "^4.1.6"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-vue": "^4.1.0",
-    "vite": "^4.2.0"
-  }
+    "name": "shuishu-blog-front-admin",
+    "private": true,
+    "version": "0.1",
+    "type": "module",
+    "author": {
+        "name": "yushuishu",
+        "email": "k1994583917@gmail",
+        "url": "https://github.com/yushuishu"
+    },
+    "keywords": [
+        "vue",
+        "vue3",
+        "vueComponent",
+        "admin",
+        "js",
+        "javascript",
+        "vite",
+        "pinia"
+    ],
+    "homepage": "http://admin.longlonglong/",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "@element-plus/icons-vue": "^2.1.0",
+        "axios": "^1.3.4",
+        "dayjs": "^1.11.7",
+        "echarts": "^5.4.2",
+        "element-plus": "^2.3.1",
+        "md-editor-v3": "^2.11.0",
+        "pinia": "^2.0.33",
+        "vue": "^3.2.47",
+        "vue-router": "^4.1.6"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^4.1.0",
+        "vite": "^4.3.2"
+    }
 }
