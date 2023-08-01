@@ -8,11 +8,23 @@
 
 项目基于 [vue@3.x](https://v3.cn.vuejs.org/guide) 系列开发（文档：[router@4.x](https://next.router.vuejs.org/zh/guide/index.html)、[pinia@2.x](https://pinia.web3doc.top/)），UI 组件库使用 [element-plus@2.x](https://element-plus.gitee.io/zh-CN/)，图表使用 [echarts@5.x](https://echarts.apache.org/handbook/zh/get-started/)，开发环境使用 [vite@4.x](https://cn.vitejs.dev/)。
 
+个人博客系统，后台管理web。
+
+**其它源码**
+
+后台服务server：https://github.com/yushuishu/shuishu-blog-backend
+
+后台管理web：https://github.com/yushuishu/shuishu-blog-front-admin
+
+门户网站portal：https://github.com/yushuishu/shuishu-blog-front-web
+
 
 ## 预览
+
+
 ## 项目结构说明
 
-```
+```text
 project
 ├── public
 │   ├── static               # 静态引用资源
@@ -43,3 +55,12 @@ project
 ├── vite.config.ts           # vite配置文件
 └── yarn.lock                # 当前版本的lock
 ```
+
+## 使用
+
+
+## 引用
+
+https://www.iconfont.cn/
+
+https://lucide.dev/
