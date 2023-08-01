@@ -1,4 +1,4 @@
-# vue3-admin
+# shuishu-blog-front-admin
 
 <p>
   <a href="https://nodejs.org/en/about/releases/"><img src="https://img.shields.io/badge/node-%3E=18.0.0-green.svg" alt="node compatility"></a>
