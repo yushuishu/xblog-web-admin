@@ -1,4 +1,4 @@
-# shuishu-blog-front-admin
+# xblog-web-admin
 
 <p>
   <a href="https://nodejs.org/en/about/releases/"><img src="https://img.shields.io/badge/node-%3E=18.0.0-green.svg" alt="node compatility"></a>
@@ -12,11 +12,11 @@
 
 **其它源码**
 
-后台服务server：https://github.com/yushuishu/shuishu-blog-backend
+后台服务server：https://github.com/yushuishu/xblog-api
 
-后台管理web：https://github.com/yushuishu/shuishu-blog-front-admin
+后台管理web：https://github.com/yushuishu/xblog-web-admin
 
-门户网站portal：https://github.com/yushuishu/shuishu-blog-front-web
+门户网站portal：https://github.com/yushuishu/xblog-web-website
 
 
 ## 预览
