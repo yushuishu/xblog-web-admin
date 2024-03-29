@@ -6,7 +6,7 @@
 
 ## 介绍
 
-项目基于 [vue@3.x](https://v3.cn.vuejs.org/guide) 系列开发（文档：[router@4.x](https://next.router.vuejs.org/zh/guide/index.html)、[pinia@2.x](https://pinia.web3doc.top/)），UI 组件库使用 [element-plus@2.x](https://element-plus.gitee.io/zh-CN/)，图表使用 [echarts@5.x](https://echarts.apache.org/handbook/zh/get-started/)，开发环境使用 [vite@4.x](https://cn.vitejs.dev/)。
+项目基于 [vue@3.x](https://v3.cn.vuejs.org/guide) 系列开发（文档：[router@4.x](https://next.router.vuejs.org/zh/guide/index.html)、[pinia@2.x](https://pinia.web3doc.top/)），UI 组件库使用 [element-plus@2.x](https://element-plus.gitee.io/zh-CN/)，图表使用 [echarts@5.x](https://echarts.apache.org/handbook/zh/get-started/)，开发环境使用 [vite@5.x](https://cn.vitejs.dev/)。
 
 个人博客系统，后台管理web。
 
