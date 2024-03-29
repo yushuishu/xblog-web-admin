@@ -10,7 +10,7 @@
 
 个人博客系统，后台管理web。
 
-**其它源码**
+**源码仓库**
 
 后台服务server：https://github.com/yushuishu/xblog-api
 
