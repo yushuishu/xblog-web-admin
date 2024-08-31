@@ -1,7 +1,7 @@
 {
     "name": "xblog-web-admin",
     "private": true,
-    "version": "1.0",
+    "version": "v1.0.0",
     "type": "module",
     "author": {
         "name": "yushuishu",
@@ -20,29 +20,27 @@
     ],
     "homepage": "http://admin.longlonglong.top/",
     "scripts": {
-        "dev": "vite --mode dev",
-        "test": "vite --mode test",
-        "build:test": "vite build --mode test",
-        "prod": "vite --mode prod",
-        "build:prod": "vite build --mode prod"
+        "dev": "vite",
+        "prod": "vite build"
     },
     "dependencies": {
         "@element-plus/icons-vue": "^2.3.1",
-        "axios": "^1.6.7",
-        "dayjs": "^1.11.10",
-        "echarts": "^5.4.3",
-        "element-plus": "^2.6.1",
+        "axios": "^1.7.4",
+        "dayjs": "^1.11.12",
+        "echarts": "^5.5.1",
+        "element-plus": "^2.8.0",
         "md-editor-v3": "^4.12.1",
         "nprogress": "^0.2.0",
-        "pinia": "^2.1.7",
+        "path-browserify": "^1.0.1",
+        "pinia": "^2.2.2",
         "pinia-plugin-persistedstate": "^3.2.1",
-        "sass": "^1.72.0",
-        "unplugin-auto-import": "^0.17.5",
-        "vue": "^3.4.21",
-        "vue-router": "^4.2.5"
+        "sass": "^1.77.8",
+        "unplugin-auto-import": "^0.18.2",
+        "vue": "^3.4.38",
+        "vue-router": "^4.4.3"
     },
     "devDependencies": {
-        "@vitejs/plugin-vue": "^5.0.4",
-        "vite": "^5.1.6"
+        "@vitejs/plugin-vue": "^5.1.2",
+        "vite": "^5.4.1"
     }
 }
